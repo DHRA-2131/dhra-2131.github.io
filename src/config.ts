@@ -112,7 +112,8 @@ export const PROGRAMMING_SIDEBAR = {
 			children: [
 				"getting-started/essence-of-programming", 
 				"getting-started/how-fix-clang", 
-				"getting-started/using-source-control", 
+				"getting-started/using-source-control",
+				"getting-started/improving-compile-times,
 			]
 		}
 	], 
